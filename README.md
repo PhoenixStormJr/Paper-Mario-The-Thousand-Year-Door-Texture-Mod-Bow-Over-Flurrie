@@ -1,6 +1,11 @@
 # Paper-Mario-The-Thousand-Year-Door-Texture-Mod-Bow-Over-Flurrie
-This is an easy texture mod for the dolphin emulator that replaces the provocative Flurrie with a family friendly cute boo named Bow!
+This is an easy texture mod for the dolphin emulator that replaces the provocative Flurrie with a family friendly cute boo named Bow! I know of this one:
 
+https://gamebanana.com/mods/518748
+
+But I couldn't actually get the pngs from the download. So I made my own that's much easier to install.
+
+(This project is unfinished)
 
 # How I Extracted the Textures Using Dolphin Emulator
 Open Dolphin Emulator and load your Paper Mario: The Thousand-Year Door ISO.
