@@ -30,9 +30,11 @@ Go to that folder and look through the PNG files — these are the raw textures 
 
 Edit the textures you want (for example, Flurrie’s textures) in your favorite image editor.
 
-Place the edited PNGs here:
+# How to install the mod:
+Place the edited PNGs here (or if you're on Windows 10, I don't know):
 
 ~/.local/share/dolphin-emu/Load/Textures/G8ME01/
 
 to have Dolphin load your custom textures when you run the game.
 
+Also enable "Prefetch Custom Textures" to prevent Flurrie's textures from flashing quickly, AND slightly speed up the game.
